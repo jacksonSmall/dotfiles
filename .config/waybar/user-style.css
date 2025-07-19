@@ -1,0 +1,7 @@
+/* User custom styles */
+/* Make the workspace buttons bigger */
+#workspaces button {
+    padding: 3px 1px; /* Increase padding: 5px for top/bottom, 20px for left/right */
+    font-size: 10px;   /* Optional: Increase the size of the icon/text inside */
+    border-radius: 12px; /* Optional: Make corners more rounded */
+}
