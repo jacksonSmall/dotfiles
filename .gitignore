@@ -1,0 +1,17 @@
+# Ignore common user folders
+.cache/
+.local/
+Downloads/
+Documents/
+Pictures/
+Music/
+Videos/
+Desktop/
+AUR/
+
+# Ignore specific history files
+.bash_history
+.python_history
+
+# Ignore all log files
+*.log
