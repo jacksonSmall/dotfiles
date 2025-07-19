@@ -1,5 +1,5 @@
 
-### My Hyprland Shortcuts Cheat Sheet
+### Hyprland Shortcuts
 
 #### Essential Window Management
 * **Close Focused Window:** `Super + Q` or `Alt + F4`
